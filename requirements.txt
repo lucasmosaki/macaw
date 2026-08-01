@@ -1,0 +1,5 @@
+cryptography>=44.0
+msgpack>=1.1
+PyNaCl>=1.5
+rich>=13.9
+typer>=0.15
